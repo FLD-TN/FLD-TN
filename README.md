@@ -21,8 +21,8 @@
 ### 📚 Github Status
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vubaolinh123&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=vubaolinh123&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLD-TN&layout=compact&theme=tokyonight&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=FLD-TN&show_icons=true&theme=tokyonight" height="165">
 </p>
 
 
