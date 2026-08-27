@@ -18,7 +18,7 @@
 
 I am a software developer with a special bias towards creativity and innovation. Currently in my third year at Ho Chi Minh City University of Foreign Languages - Information Technology (HUFLIT), I am deeply passionate about building impactful solutions.
 
-My actions are always aimed at achieving high results and ensuring the quality fulfillment of every task I take on. In life, I am driven by continuous self-development—I never stand still.
+My actions are always aimed at achieving high results and ensuring the quality fulfillment of every task I take on. In life, I am driven by continuous self-development.
 
 ---
 
@@ -26,7 +26,6 @@ My actions are always aimed at achieving high results and ensuring the quality f
 * 🌍 Based in: Ho Chi Minh City, Vietnam.
 * 💡 Focus: Creativity, innovation, and high-quality code.
 * 🌱 Mindset: Always learning, always growing.
-* 📫 Reach me at: **[Your Email / LinkedIn link here]**
 
 ### 🛠 My knowledge
 
