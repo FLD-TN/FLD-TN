@@ -1,3 +1,10 @@
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+!+I'm+Dex!" alt="Typing SVG" /></a>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vubaolinh123">
   <img src="https://shields.io/github/stars/vubaolinh123">
