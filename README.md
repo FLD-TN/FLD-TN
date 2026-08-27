@@ -12,9 +12,9 @@
 </div>
 
 ## 👻 About Me...
-# Hi there, I'm Trần Anh Duy (Dex) 
 
 ### 👨‍💻 Software Developer | 🎓 3rd-Year Student at HUFLIT | 📍 Ho Chi Minh City
+My Vietnamese name is Tran Anh Duy, but you can call me Dex for short .
 
 I am a software developer with a special bias towards creativity and innovation. Currently in my third year at Ho Chi Minh City University of Foreign Languages - Information Technology (HUFLIT), I am deeply passionate about building impactful solutions.
 
