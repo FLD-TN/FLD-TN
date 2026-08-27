@@ -34,6 +34,7 @@ My actions are always aimed at achieving high results and ensuring the quality f
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
 
 ### 📚 Github Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLD-TN&theme=react&animation=sequence)
