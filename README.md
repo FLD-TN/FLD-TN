@@ -37,9 +37,15 @@ My actions are always aimed at achieving high results and ensuring the quality f
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
 
 ### 📚 Github Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLD-TN&theme=react&animation=sequence)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLD-TN&theme=react&animation=sequence)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLD-TN&theme=react&animation=sequence&utcOffset=2)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLD-TN&theme=react&animation=sequence" alt="Profile Details" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam" alt="Repos Per Language" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam" alt="Most Commit Language" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLD-TN&theme=react&animation=sequence" alt="Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLD-TN&theme=react&animation=sequence&utcOffset=2" alt="Productive Time" />
+</p>
 
