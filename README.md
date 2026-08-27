@@ -4,12 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings%2C+!+I'm+Dex!" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vubaolinh123">
-  <img src="https://shields.io/github/stars/vubaolinh123">
-  <img src="https://img.shields.io/github/followers/vubaolinh123">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
-</p>
+
 
 ### 🛠 My knowledge
 
@@ -26,13 +21,9 @@
 
 ### 📚 Github Status
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLD-TN&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLD-TN&show_icons=true&theme=tokyonight" height="165">
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLD-TN&theme=react&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLD-TN&theme=react&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLD-TN&theme=react&animation=sequence&utcOffset=2)
 
-
-### 🌐️ Reach me at
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vubaolinh123)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/linkcualinh)
