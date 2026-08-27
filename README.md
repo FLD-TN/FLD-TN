@@ -7,7 +7,7 @@
 <div align="center">
     <a href="https://www.facebook.com/huhumitsdu/"><img src="https://img.shields.io/badge/-Facebook-f5e0dc?style=for-the-badge&logo=facebook&logoColor=27A0D9" alt="Facebook"/></a>
    <a href="https://wa.me/84346345240"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
-    <img src="https://img.shields.io/badge/Discord-duynee__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <a href="https://discord.com/users/973437445767061526"><img src="https://img.shields.io/badge/Discord-duynee__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
     <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
 </div>
 
@@ -26,10 +26,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 📚 Github Status
-
+<div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLD-TN&theme=react&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLD-TN&theme=react&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLD-TN&theme=react&animation=sequence&utcOffset=2)
-
+</div>
