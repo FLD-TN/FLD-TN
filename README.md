@@ -1,7 +1,7 @@
 <div align="center">
     <img width=300 src="./assets/Main.gif"/>    
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings%2C+!+I'm+Dex!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings+!+I'm+Dex!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -11,6 +11,22 @@
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
+## 🚀 About Me...
+# Hi there, I'm Trần Anh Duy (Dex) 👋
+
+### 👨‍💻 Software Developer | 🎓 3rd-Year Student at HUFLIT | 📍 Ho Chi Minh City
+
+I am a software developer with a special bias towards creativity and innovation. Currently in my third year at Ho Chi Minh City University of Foreign Languages - Information Technology (HUFLIT), I am deeply passionate about building impactful solutions.
+
+My actions are always aimed at achieving high results and ensuring the quality fulfillment of every task I take on. In life, I am driven by continuous self-development—I never stand still.
+
+---
+
+### 🚀 Quick Facts
+* 🌍 Based in: Ho Chi Minh City, Vietnam.
+* 💡 Focus: Creativity, innovation, and high-quality code.
+* 🌱 Mindset: Always learning, always growing.
+* 📫 Reach me at: **[Your Email / LinkedIn link here]**
 
 ### 🛠 My knowledge
 
@@ -26,10 +42,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 📚 Github Status
-<div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLD-TN&theme=react&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLD-TN&theme=react&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLD-TN&theme=react&animation=sequence&utcOffset=2)
-</div>
+
