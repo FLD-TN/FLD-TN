@@ -38,13 +38,9 @@ My actions are always aimed at achieving high results and ensuring the quality f
 
 ### 📚 Github Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLD-TN&theme=react&animation=sequence)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FLD-TN&theme=react&animation=sequence&exclude=VietNam)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLD-TN&theme=react&animation=sequence)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLD-TN&theme=react&animation=sequence&utcOffset=2)
 
 
