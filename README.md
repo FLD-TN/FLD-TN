@@ -11,8 +11,8 @@
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-## 🚀 About Me...
-# Hi there, I'm Trần Anh Duy (Dex) 👋
+## 👻 About Me...
+# Hi there, I'm Trần Anh Duy (Dex) 
 
 ### 👨‍💻 Software Developer | 🎓 3rd-Year Student at HUFLIT | 📍 Ho Chi Minh City
 
@@ -21,11 +21,6 @@ I am a software developer with a special bias towards creativity and innovation.
 My actions are always aimed at achieving high results and ensuring the quality fulfillment of every task I take on. In life, I am driven by continuous self-development.
 
 ---
-
-### 🚀 Quick Facts
-* 🌍 Based in: Ho Chi Minh City, Vietnam.
-* 💡 Focus: Creativity, innovation, and high-quality code.
-* 🌱 Mindset: Always learning, always growing.
 
 ### 🛠 My knowledge
 
