@@ -11,7 +11,7 @@
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-## 👻 About Me...
+## 🐱 About Me...
 
 ### 👨‍💻 Software Developer | 🎓 3rd-Year Student at HUFLIT | 📍 Ho Chi Minh City
 My Vietnamese name is Tran Anh Duy, but you can call me Dex for short .
